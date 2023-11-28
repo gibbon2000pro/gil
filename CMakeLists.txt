@@ -1,6 +1,8 @@
 cmake_minimum_required(VERSION 3.15)
 project(gil)
 
+# set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -finput-charset=UTF-8  -fexec-charset=UTF-8")
+
 # target_include_directories(${PROJECT_NAME}
 #     "include"
 # )

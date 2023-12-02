@@ -18,3 +18,7 @@ project(gil)
 add_executable(test_read_file
     test/test_read_file.cpp
 )
+
+add_executable(test_read_file2
+    test/test_read_file2.cpp
+)
